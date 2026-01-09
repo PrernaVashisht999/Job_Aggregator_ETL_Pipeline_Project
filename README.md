@@ -17,7 +17,9 @@ Tech Stack 🛠️
 
 • SerpApi / Google Jobs API
 
+
 Approach / Methodology (Medallion Layers) 🏗️
+
 
 1️⃣ Bronze Layer – Data Collection
 
@@ -49,6 +51,7 @@ Approach / Methodology (Medallion Layers) 🏗️
 
 
 Key Insights / Conclusion 💡
+
 
 • Dominant Roles: Data and tech jobs dominate postings
 
